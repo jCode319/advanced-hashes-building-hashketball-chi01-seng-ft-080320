@@ -100,7 +100,7 @@ def hasketball
          :steals => 4,
          :blocks => 5,
          :slam_dunks => 5
-         }, 
+         },
         {:player_name => "Ben Gordon",
           :number => 8,
           :shoe => 15,
@@ -120,7 +120,7 @@ def hasketball
           :steals => 7,
           :blocks => 5,
           :slam_dunks => 12
-          },     
+          },
       ]
     }
   }
