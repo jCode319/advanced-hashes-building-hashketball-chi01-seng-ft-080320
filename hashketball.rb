@@ -68,7 +68,7 @@ def hasketball
         },
       ]
     },
-      :home =>{
+      :away =>{
         :team_name => "Charlotte Hornets",
         :colors =>["Turquoise","Purple"],
         :players => [
