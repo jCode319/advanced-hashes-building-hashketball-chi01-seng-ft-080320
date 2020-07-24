@@ -15,7 +15,7 @@ def hasketball
           :steals
           :blocks
           :slam_dunks
-          
+
         }
       ]
     }
@@ -27,6 +27,6 @@ def hasketball
 
 
 
-    
+
   }
 end
