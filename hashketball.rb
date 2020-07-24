@@ -22,7 +22,6 @@ def hasketball
 
 
 
-    :away
 
 
 
